@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377145861217",
+    "project_id": "gagu-e1ab4",
+    "storage_bucket": "gagu-e1ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377145861217:android:30f6824b480b7d3f257620",
+        "android_client_info": {
+          "package_name": "com.example.gagu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377145861217-ru5aifpdro86ku9h98b9i0v4rs4c3mdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvDlZIN6sIeMvV4Q0WnhrtC9Yat0p47Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377145861217-ru5aifpdro86ku9h98b9i0v4rs4c3mdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
